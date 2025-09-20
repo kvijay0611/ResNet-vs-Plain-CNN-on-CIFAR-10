@@ -22,6 +22,14 @@ Our findings show that ResNet consistently outperforms Plain CNN, especially und
 ## ResNet50 Arch
   ![ResNet](download.png)
 
+## PlainNet Work Flow
+  ![PlainNet](images (1).jpeg)
+  
+## RestNet Work Flow 
+ ![ResNet](restnet formula.png)
+
+
+
 
 ---
 
