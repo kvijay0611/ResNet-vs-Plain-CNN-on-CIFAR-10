@@ -31,14 +31,6 @@ Our findings show that ResNet consistently outperforms Plain CNN, especially und
 
 ---
 
-## 📂 Repository Structure  
-├── ResNet vs Plain CNN on CIFAR-10_ A Comparative Study.pdf # Detailed project report
-├── Computervisionintern.ipynb # Jupyter Notebook implementation
-├── README.md # Project documentation
-
-
----
-
 ## ⚙️ Experimental Setup  
 - **Dataset:** CIFAR-10 (60,000 images, 10 classes, 32x32 resolution)  
 - **Training Config:**  
