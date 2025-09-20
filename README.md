@@ -18,7 +18,9 @@ Our findings show that ResNet consistently outperforms Plain CNN, especially und
   - Robustness with limited data (10%, 25%, 50%, 100%)  
 - Visualization using **t-SNE** and **confusion matrices**.
 
-  ![ResNet](Pi7_Tool_restnet.png)
+---
+## ResNet50 Arch
+  ![ResNet](download.png)
 
 
 ---
