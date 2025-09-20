@@ -23,12 +23,10 @@ Our findings show that ResNet consistently outperforms Plain CNN, especially und
   ![ResNet](download.png)
 
 ## PlainNet Work Flow
-  ![PlainNet](images (1).jpeg)
+  ![PlainNet](images_(1).jpeg)
   
 ## RestNet Work Flow 
- ![ResNet](restnet formula.png)
-
-
+ ![ResNet](restnet_formula.png)
 
 
 ---
@@ -54,10 +52,13 @@ Our findings show that ResNet consistently outperforms Plain CNN, especially und
 ## 📊 Results  
 - **ResNet Accuracy:** 83.8%  
 - **Plain CNN Accuracy:** 72.5%  
-- ResNet converged faster and showed more stable learning.  
+- ResNet converged faster and showed more stable learning.
+![Test val](Screenshot_2025-09-18_112021.png)
 - With **only 10% of training data**, ResNet maintained strong performance, while Plain CNN collapsed.  
-- **t-SNE visualizations** showed clearer clustering with ResNet.  
-- **Confusion matrices** revealed fewer misclassifications in similar classes.  
+- **t-SNE visualizations** showed clearer clustering with ResNet.
+![t-SNE](Screenshot_2025-09-18_112047.png)
+- **Confusion matrices** revealed fewer misclassifications in similar classes.
+![CM](Screenshot_2025-09-18_112035.png)  
 
 ---
 
